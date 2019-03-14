@@ -1,0 +1,33 @@
+
+ 
+.mansetAna {    width: 530px;    height: 403px;    margin-left: 686px;    margin-top: -410px;    float: left;    position: relative;}     
+
+
+.maUst{width: 525px;height: 365px;overflow: hidden;float:left;}
+        .maUst a, .maUst img {    width: 100%;    height: auto;    display: block; position:absolute; top:0;}
+        .maUst a{position: relative;}
+        
+        .maAlt{width: 525px;height:44.39px;position: absolute;left: 0;bottom: -1px;font: normal 15px/40px Arial;/*background:#e3e3e3;*/z-index: 100;}
+        .maBtns{float:left;text-align: center;letter-spacing: -1px;margin-left:15px;margin-top: 5px;}
+        .maBtns li{float: left;}
+        .maBtns a{border:0.01pt solid rgba(0,0,0,0.0);display: block;width: 28px;height: 28px;border-radius:32.4px;margin-right: 5px;color: #ffffff;position: relative;font-family: mihajlooo;font-size:18px;padding: 5px;}
+        .maBtns a p {margin-top:-2px;padding-right:3px;}
+        .maBtns li a.current{color: #fff!important;}
+        .katSf_66 .maBtns li a.current{
+            background: #b92e32!important;
+            color:white;
+            text-shadow:none!important;
+        }
+        .katSf_66 .maBtns li a{
+            background: #4c4c4c;
+    color: white;
+}
+       .ustM .k12 i, .katSf_66 .maBtns li a.current, .katSf_66 .maFoot {
+    background-color: #c0060f!important;
+}
+
+.manset .mansetAna .maAlt{height: 60px !important;}
+         .manset .mansetAna .maAlt .maBtns{margin-top: 15px !important;}
+         .manset .mansetAna .maAlt>center{margin-top: 10px !important;}
+         
+        
